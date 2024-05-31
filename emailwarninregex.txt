@@ -61,28 +61,3 @@ securely*.dropbox
 securely*.google drive
 view message
 view attachment
-shared\susing\sonedrive\sfor\sbusiness
-Security\s(Alert|Warning|Info)
-(New|Missed)\sMessage(s)?
-(C|c)urrently\son\shold
-awaiting\sfurther\sActions
-has\sleft\syou\sa\smessage
-(Y|y)ou\shave\ssome\sfiles
-Automatic\sPassword\sreset
-email\son\s\d{2}\/\d{2}\/\d{4}
-has\sbeen\slimited
-we\shave\slocked
-has\sbeen\ssuspended
-Unusual\ssignin\sactivity
-Your\saccount\s(w|h)as
-New\srecorded\svoicemail
-Password\sexpired
-Notifications\spending
-Account\sis\son\shold
-Verification\s(required|notification|request)
-temporarily\sdeactivated
-secur(e|ity)\s(update|email)
-Employee\sBenefits\sPolicy
-mail\saccount\snotice
-delivery\sfailed\:\s\[10\]\s(messages|emails)
-you\shave\snew\sheld
